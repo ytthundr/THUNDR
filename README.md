@@ -1,5 +1,5 @@
-# rdp
-google-rdp
+# THUNDR-RDP
+GOOGLE-RDP
 
 How to USE:
 
